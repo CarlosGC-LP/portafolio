@@ -21,6 +21,15 @@ body {
     box-sizing: border-box;
 }
 
+ul {
+    list-style-type: disc; /* Asegura que los puntos de la lista sean de tipo disco (los puntos predeterminados) */
+    padding-left: 20px; /* Agrega un poco de espacio a la izquierda para que los puntos se muestren correctamente */
+}
+
+li {
+    margin-bottom: 10px; /* Agrega un poco de margen inferior a los elementos de la lista para mejorar la legibilidad */
+}
+
 .header {
     padding: 2% 0% 0% 15%;
 }
