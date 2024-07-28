@@ -2,9 +2,9 @@
 
 ## Herramientas utilizadas:
 
-  *HTML
-  *CSS
-  *Flex-box
+* HTML
+* CSS
+* Flex-box
 
 ## Hecho por:
 
